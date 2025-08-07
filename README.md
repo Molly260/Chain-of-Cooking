@@ -2,7 +2,7 @@
 <p align="center">
   <h2 align="center">[ACM MM 2025] Chain-of-Cooking: Cooking Process Visualization via Bidirectional Chain-of-Thought Guidance</h2>
   <p align="center">
-    <a href="https://scholar.google.com.hk/citations?user=8Iw1MyUAAAAJ&hl=zh-CN"><strong>Mengling Xu, </strong></a>
+    <a href="https://scholar.google.com.hk/citations?user=8Iw1MyUAAAAJ&hl=zh-CN"><strong>Mengling Xu</strong></a>
     <a href="https://scholar.google.com/citations?user=5GlOlNUAAAAJ"><strong>Ming Tao, </strong></a>
     <a href="https://scholar.google.com/citations?user=lDppvmoAAAAJ&hl=en"><strong>Bing-Kun Bao<sup>*</sup>, </strong></a>
   </p>
