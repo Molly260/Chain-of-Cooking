@@ -1,5 +1,9 @@
 # [ACM MM 2025] Chain-of-Cooking: Cooking Process Visualization via Bidirectional Chain-of-Thought Guidance
 
+## 📚 Introduction
+![Framework](framework.png)
+
+
 The code will coming soon. Thank you for your attention!
 
 ## 📚 Dataset
